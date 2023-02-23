@@ -23,7 +23,7 @@ div{
     margin: 20px 0px;
     border: black 2px solid;
     clear: right;
-    color: blue;
+    background-color: blue;
 }
 div p{
     margin: 0px 5px;
